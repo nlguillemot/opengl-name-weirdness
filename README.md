@@ -6,4 +6,4 @@ See [main.cpp](main.cpp) for an example of using random numbers as object names.
 
 Result of running main.cpp:
 
-![result.png](result image)
+![result image](result.png)
